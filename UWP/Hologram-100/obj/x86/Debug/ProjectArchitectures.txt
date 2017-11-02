@@ -1,0 +1,4 @@
+C:\Users\palad\Documents\hologram-100\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\palad\Documents\hologram-100\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\palad\Documents\hologram-100\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\palad\Documents\hologram-100\UWP\Hologram-100\Hologram-100.csproj;x86
